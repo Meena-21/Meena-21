@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**Meena-21/Meena-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm M Meenakshi! 👋
 
-Here are some ideas to get you started:
+A passionate developer. I love building amazing projects with code. Currently exploring web development and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on: Open to new opportunities
+- 🌱 I’m currently learning: React, Java
+- 👯 I’m looking to collaborate on: Fun open-source projects
+- 🤔 I’m looking for help with: Anything specific
+- 💬 Ask me about: Web development, CSS, JavaScript
+- ⚡ Fun fact: [Something fun about you]
+
+## 🛠️ Tech Stack
+| Category    | Technologies                  |
+|-------------|-------------------------------|
+| Frontend    | HTML, CSS, JavaScript, React  |
+| Backend     | Java                          |
+| Languages   | Python, JavaScript            |
+| Tools       | Git                           |
+
+## 📊 GitHub Stats
+
+- Public Repos: 6
+- Followers: 0
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meena-21&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meena-21&layout=compact&theme=radical)
+
+## 🔥 Pinned Repositories
+| Repo                  | Description | Language     | Stars |
+|-----------------------|-------------|--------------|-------|
+| [MyPortfolio](https://github.com/Meena-21/MyPortfolio) |             | CSS          | ⭐ 0   |
+| [git-tuts](https://github.com/Meena-21/git-tuts)       |             | Python       | ⭐ 0   |
+| [react-practice](https://github.com/Meena-21/react-practice) |      | HTML         | ⭐ 0   |
+| [PortfolioExample](https://github.com/Meena-21/PortfolioExample) |  | HTML         | ⭐ 0   |
+| [Example](https://github.com/Meena-21/Example)         |             | HTML         | ⭐ 0   |
+| [Game](https://github.com/Meena-21/Game)               |             | JavaScript   | ⭐ 0   |
+
+## 📫 Connect with Me
+- 📧 Email: meenakshim7738@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/m-meenakshi-032337280
+
+---
+
+⭐️ **From [Meena-21](https://github.com/Meena-21)**
+
