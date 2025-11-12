@@ -9,7 +9,7 @@ A passionate developer. I love building amazing projects with code. Currently ex
 - 👯 I’m looking to collaborate on: Fun open-source projects
 - 🤔 I’m looking for help with: Anything specific
 - 💬 Ask me about: Web development, CSS, JavaScript
-- ⚡ Fun fact: [Something fun about you]
+
 
 ## 🛠️ Tech Stack
 | Category    | Technologies                  |
