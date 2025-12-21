@@ -5,19 +5,19 @@ A passionate developer. I love building amazing projects with code. Currently ex
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: Open to new opportunities
-- 🌱 I’m currently learning: React, Java
+- 🌱 I’m currently learning: React.js, Java
 - 👯 I’m looking to collaborate on: Fun open-source projects
 - 🤔 I’m looking for help with: Anything specific
 - 💬 Ask me about: Web development, CSS, JavaScript
 
 
 ## 🛠️ Tech Stack
-| Category    | Technologies                  |
-|-------------|-------------------------------|
-| Frontend    | HTML, CSS, JavaScript, React  |
-| Backend     | Java                          |
-| Languages   | Python, JavaScript            |
-| Tools       | Git                           |
+| Category    | Technologies                     |
+|-------------|--------------------------------  |
+| Frontend    | HTML, CSS, JavaScript, React.js  |
+| Backend     | Java                             |
+| Languages   | Python, JavaScript               |
+| Tools       | Git                              |
 
 ## 📊 GitHub Stats
 
