@@ -32,15 +32,13 @@ A passionate developer. I love building amazing projects with code. Currently ex
 ## 🔥 Pinned Repositories
 | Repo                  | Description | Language     | Stars |
 |-----------------------|-------------|--------------|-------|
-| [MyPortfolio](https://github.com/Meena-21/MyPortfolio) |  This is my personal portfolio website created to showcase my web development skills, projects, and technical experience.  
-The portfolio highlights my ability to build responsive and interactive user interfaces using modern web technologies.
-           | CSS          | ⭐ 0   |
-| [TaskBuddy](https://task-buddy-bice.vercel.app/)       |             | JavaScript   | ⭐ 0   |
-| [Birdy-Match](https://birdy-match.vercel.app/)         |             | JavaScript   | ⭐ 0   |
-| [git-tuts](https://github.com/Meena-21/git-tuts)       |             | Python       | ⭐ 0   |
-| [react-practice](https://github.com/Meena-21/react-practice) |      | HTML         | ⭐ 0   |
-| [PortfolioExample](https://github.com/Meena-21/PortfolioExample) |  | HTML         | ⭐ 0   |
-| [Example](https://github.com/Meena-21/Example)         |             | HTML         | ⭐ 0   |
+| [MyPortfolio](https://github.com/Meena-21/MyPortfolio) |                                                                               | CSS          | ⭐ 0   |
+| [TaskBuddy](https://task-buddy-bice.vercel.app/)       |                                                                               | JavaScript   | ⭐ 0   |
+| [Birdy-Match](https://birdy-match.vercel.app/)         |                                                                               | JavaScript   | ⭐ 0   |
+| [git-tuts](https://github.com/Meena-21/git-tuts)       |                                                                               | Python       | ⭐ 0   |
+| [react-practice](https://github.com/Meena-21/react-practice) |                                                                         | HTML         | ⭐ 0   |
+| [PortfolioExample](https://github.com/Meena-21/PortfolioExample) |                                                                     | HTML         | ⭐ 0   |
+| [Example](https://github.com/Meena-21/Example)         |                                                                               | HTML         | ⭐ 0   |
 
 
 
