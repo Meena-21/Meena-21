@@ -15,7 +15,7 @@ A passionate developer. I love building amazing projects with code. Currently ex
 | Category    | Technologies                     |
 |-------------|--------------------------------  |
 | Frontend    | HTML, CSS, JavaScript, React.js  |
-| Backend     | Java                             |
+| Backend     | Java, Node.js                    |
 | Databases   | MySql, MangoDB                   |
 | Languages   | Python, JavaScript               |
 | Tools       | Git                              |
